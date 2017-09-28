@@ -1,0 +1,13 @@
+io\clearsky\weathers\ServletInitializer.class
+io\clearsky\weathers\WebConfig.class
+io\clearsky\weathers\dao\WeatherDAOImpl.class
+io\clearsky\weathers\JPAConfig.class
+io\clearsky\weathers\service\WeatherServiceImpl.class
+io\clearsky\weathers\dao\WeatherDAO.class
+io\clearsky\weathers\constants\URI.class
+io\clearsky\weathers\SwaggerConfig.class
+io\clearsky\weathers\controller\WeatherController.class
+io\clearsky\weathers\entity\Weather.class
+io\clearsky\weathers\dao\MyComparator.class
+io\clearsky\weathers\entity\Wind.class
+io\clearsky\weathers\service\WeatherService.class
